@@ -11,6 +11,5 @@ github_username:  mindpin
 markdown: kramdown
 
 source: _src
-destination: www
 
 permalink: /docs/:title.html
