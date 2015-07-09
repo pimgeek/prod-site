@@ -1,0 +1,16 @@
+# Site settings
+title: MINDPIN
+email: mindpin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  MINDPIN TEAM 是一个在北京的在线教育创业团队，正向越来越多的学校和个人用户提供软件和数据服务
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  mindpin
+
+# Build settings
+markdown: kramdown
+
+source: _src
+destination: _www
+
+permalink: /docs/:title.html
